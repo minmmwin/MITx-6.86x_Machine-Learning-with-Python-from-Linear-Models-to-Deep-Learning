@@ -2,6 +2,7 @@ Project 1 — Sentiment Analysis (Text Classification)
 📌 Overview
 This project focuses on building a sentiment analysis model to classify product reviews as positive or negative.
 The work combines text preprocessing, feature engineering, and machine learning techniques to analyze real-world customer review data.
+
 **Achieved ~100% classification accuracy on validation data.**
 ________________________________________
 🎯 Objectives
