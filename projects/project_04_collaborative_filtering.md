@@ -1,71 +1,68 @@
-# Project 3 ó Neural Networks (MNIST Classification)
+# Project 4 ‚Äî Collaborative Filtering (Gaussian Mixture Models)
 
-## ?? Overview
+## üìå Overview
 
-This project focuses on building neural networks to classify handwritten digits using the MNIST dataset.††
-The work extends previous models by implementing both fully connected and convolutional neural networks.
+This project focuses on building a recommendation system using collaborative filtering.  
+A mixture of Gaussians model is applied to predict missing entries in a partially observed user‚Äìitem rating matrix.
 
-**Achieved 100% classification accuracy on evaluation tasks.**
-
----
-
-## ?? Objectives
-
-- Implement neural networks from scratch††
-- Apply deep learning models to image data††
-- Understand forward and backward propagation††
-- Use PyTorch for building and training models††
-- Improve performance using convolutional architectures††
+**Achieved 100% accuracy on evaluation tasks.**
 
 ---
 
-## ?? Key Concepts Applied
+## üéØ Objectives
 
-- Neural networks (from scratch implementation)††
-- Forward propagation and backpropagation††
-- Activation functions (ReLU, etc.)††
-- Loss functions and optimization††
-- Fully connected neural networks††
-- Convolutional Neural Networks (CNNs)††
-- PyTorch for deep learning††
-- Handling sparse and high-dimensional data††
+- Implement collaborative filtering for recommendation systems  
+- Apply Gaussian Mixture Models (GMM) to real-world data  
+- Use Expectation-Maximization (EM) for parameter estimation  
+- Handle missing data in user‚Äìitem matrices  
+- Compare clustering and probabilistic approaches  
 
 ---
 
-## ??? Work Performed
+## üß† Key Concepts Applied
 
-- Implemented a neural network from scratch using NumPy††
-- Built and trained fully connected neural networks††
-- Applied PyTorch for model development††
-- Implemented convolutional neural networks (CNNs)††
-- Trained models on MNIST digit classification††
-- Evaluated and improved model performance††
-- Worked with more complex variations of the dataset††
-
----
-
-## ?? Skills Demonstrated
-
-- Deep learning fundamentals††
-- Building neural networks from scratch††
-- Using PyTorch for model training††
-- Working with image datasets††
-- Model evaluation and optimization††
-- Handling high-dimensional data††
+- Gaussian Mixture Models (GMM)  
+- Expectation-Maximization (EM) algorithm  
+- E-step and M-step optimization  
+- Soft clustering  
+- Matrix completion  
+- Handling sparse datasets  
+- K-means as baseline comparison  
 
 ---
 
-## ?? Notes
+## üõ†Ô∏è Work Performed
 
-- This project reflects my understanding and implementation of course concepts††
-- No graded solutions or restricted materials are included (per edX policy)††
+- Implemented K-means clustering as a baseline model  
+- Built EM algorithm for Gaussian mixtures  
+- Performed iterative E-step and M-step updates  
+- Modeled user preferences using probabilistic mixtures  
+- Predicted missing entries in rating matrix  
+- Evaluated model performance on incomplete datasets  
+- Compared clustering vs probabilistic approaches  
 
 ---
 
-## ?? Related Course
+## üìä Skills Demonstrated
 
-MITx 6.86x ó Machine Learning with Python††
+- Recommendation systems fundamentals  
+- Working with sparse and incomplete data  
+- Probabilistic modeling  
+- Optimization using EM algorithm  
+- Clustering and model comparison  
+- Translating theory into working implementations  
+
+---
+
+## ‚ö†Ô∏è Notes
+
+- This project reflects my understanding and implementation of course concepts  
+- No graded solutions or restricted materials are included (per edX policy)  
+
+---
+
+## üîó Related Course
+
+MITx 6.86x ‚Äî Machine Learning with Python  
 https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning
-
-
 
