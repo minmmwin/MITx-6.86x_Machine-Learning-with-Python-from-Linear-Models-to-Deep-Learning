@@ -5,7 +5,7 @@
 This project focuses on building neural networks to classify handwritten digits using the MNIST dataset.  
 The work extends previous models by implementing both fully connected and convolutional neural networks.
 
-**Achieved 100% classification accuracy on evaluation tasks.**
+**Achieved 95% classification accuracy on evaluation tasks.**
 
 ---
 
