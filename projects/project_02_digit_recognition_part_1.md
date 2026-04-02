@@ -7,6 +7,8 @@ The task involves applying multiple machine learning models to image data and co
 
 The dataset consists of grayscale images of handwritten digits (0–9), each represented as a 28×28 pixel grid.
 
+Achieved ~100% classification accuracy on validation data.
+
 ---
 
 ## 🎯 Objectives
