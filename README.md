@@ -51,7 +51,7 @@ The course focuses on building a strong foundation in **machine learning algorit
 
 ## 📂 Repository Structure
 
----
+'''
 MITx-6.419x/
 │
 ├── README.md
@@ -78,7 +78,7 @@ MITx-6.419x/
 └── certificate/
     └── mitx_6_419x_certificate.pdf
 
----
+'''
 
 ## 📅 Weekly Progress
 
