@@ -1,77 +1,84 @@
-This repository contains a series of analyses completed as part of the MITx 6.419x course:  
-**Data Analysis: Statistical Modeling and Computation in Applications**.
+# 🤖 Machine Learning Projects (MITx 6.86x)
 
-Each analysis focuses on applying statistical and machine learning techniques to real-world datasets.
+This directory contains a series of machine learning projects completed as part of the MITx 6.86x course:  
+**Machine Learning with Python: From Linear Models to Deep Learning**.
 
----
-
-## ?? Analyses Overview
-
-### 1?? Analysis 1 � Statistics Review
-- Core probability and statistics concepts  
-- Moments, expectations, and distributions  
-- Foundation for later analyses  
+Each project focuses on implementing core machine learning algorithms and applying them to practical problems.
 
 ---
 
-### 2?? Analysis 2 � Genomics and High-Dimensional Data
-- Single-cell RNA-seq data analysis  
-- Clustering and dimensionality reduction  
-- Identification of important genes  
+## 📌 Projects Overview
+
+### Project 1 — Text Classification (Perceptron)
+- Bag-of-words feature extraction  
+- Perceptron, averaged perceptron, and Pegasos algorithms  
+- Binary classification of text data  
+- Model evaluation and accuracy comparison  
 
 ---
 
-### 3?? Analysis 3 � Network Analysis
-- Graph-based modeling of relationships  
-- Citation and social network analysis  
-- Network structure and connectivity  
+### Project 2 — Regression and Classification
+- Linear regression (closed-form solution)  
+- Multiclass classification using SVM (one-vs-rest)  
+- Gradient descent optimization  
+- Introduction to PCA for dimensionality reduction  
 
 ---
 
-### 4?? Analysis 4 � Time Series
-- CO? concentration modeling (Mauna Loa dataset)  
-- Trend + seasonal decomposition  
-- Regression and residual analysis  
+### Project 3 — Neural Networks
+- Feedforward neural networks (FNN)  
+- Backpropagation algorithm  
+- Activation functions (ReLU)  
+- Training and evaluation of neural models  
 
 ---
 
-### 5?? Analysis 5 � Environmental Data & Gaussian Processes
-- Ocean flow modeling (Philippine Archipelago)  
-- Gaussian Process regression  
-- Spatial prediction and uncertainty estimation  
+### Project 4 — Collaborative Filtering (Gaussian Mixture Models)
+- Recommendation system using collaborative filtering  
+- Gaussian Mixture Models (GMM)  
+- Expectation-Maximization (EM) algorithm  
+- Matrix completion with missing data  
 
 ---
 
-## ?? Skills Demonstrated
-
-- Statistical modeling  
-- Machine learning fundamentals  
-- Time series analysis  
-- Graph theory  
-- High-dimensional data analysis  
-- Gaussian Processes  
-- Data visualization  
+### Project 5 — Reinforcement Learning
+- Tabular Q-learning  
+- Linear function approximation  
+- Deep Q-Networks (DQN) using PyTorch  
+- Learning policies in a text-based environment (Home World)  
 
 ---
 
-## ?? Tools & Technologies
+## 🎯 Skills Demonstrated
 
-- Python (NumPy, Pandas, scikit-learn)  
-- Google Colab  
-- Data visualization libraries  
+- Supervised learning (classification & regression)  
+- Unsupervised learning (clustering, GMM)  
+- Neural networks and deep learning  
+- Reinforcement learning  
+- Optimization (gradient descent, EM)  
+- Feature engineering (bag-of-words)  
+- Dimensionality reduction (PCA)  
 
 ---
 
-## ?? Notes
+## 🧠 Tools & Technologies
+
+- Python (NumPy, Pandas)  
+- scikit-learn  
+- PyTorch  
+- Google Colab / local environment  
+
+---
+
+## ⚠️ Notes
 
 - All work follows edX academic integrity guidelines  
-- No restricted solutions are included  
-- Focus is on methodology and understanding  
+- No graded or restricted solutions are included  
+- Focus is on implementation, understanding, and experimentation  
 
 ---
 
-## ?? Course Link
+## 🔗 Related Course
 
-MITx 6.419x � Data Analysis: Statistical Modeling and Computation in Applications  
-https://www.edx.org/learn/data-analysis/massachusetts-institute-of-technology-data-analysis-statistical-modeling-and-computation-in-applications
-
+MITx 6.86x — Machine Learning with Python: From Linear Models to Deep Learning  
+https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning
