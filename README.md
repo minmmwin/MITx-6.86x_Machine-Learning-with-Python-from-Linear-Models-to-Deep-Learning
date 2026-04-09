@@ -79,6 +79,7 @@ MITx-6.419x/
     └── mitx_6_419x_certificate.pdf
 
 ```
+---
 
 ## 📅 Weekly Progress
 
